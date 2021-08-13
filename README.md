@@ -1,5 +1,5 @@
 # MovieDb Apps
- Show Movie and TV Show from MovieDb 
+ Show Movie and TV Show from MovieDb
  This project show Movie and TV Show from MovieDb to fulfill Dicoding Task Android JetpackPro.
 
 ##Tech
