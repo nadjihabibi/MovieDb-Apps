@@ -2,7 +2,7 @@
  
  This project show Movie and TV Show from MovieDb to fulfill Dicoding Task Android JetpackPro.
 
-##Tech
+## Tech
 - MVVM Architecture
 - Repository and LiveData
 - Room Database
@@ -15,7 +15,7 @@
 - Mockito for Unit Testing
 - Espresso for Instrumental Testing
 
-##How to use
+## How to use
 - Clone this project
 - Add your API_KEY in build.gradle
 
