@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+    <string name="hello_blank_fragment">Movie</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TvShow</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="img_poster">Image Poster</string>
+    <string name="img_bg_poster">Image Background Poster</string>
+    <string name="splash">Splash Screen</string>
+    <string name="years">Release date :</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvshow">Tv Shows</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="error_load_movie">Error Load Movies</string>
+    <string name="error_load_tv">Error Load TvShow</string>
+
+    <string name="menu_best">Best</string>
+    <string name="menu_worst">Worst</string>
+    <string name="menu_random">Random</string>
+    <string name="menu_favorite">favorite</string>
+</resources>
